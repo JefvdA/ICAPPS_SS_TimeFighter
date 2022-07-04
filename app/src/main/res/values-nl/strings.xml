@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Time Fighter</string>
+    <string name="tapButton_text">Druk hier</string>
+    <string name="score_text">Score: %1$d</string>
+    <string name="timer_text">Tijd over: %1$d</string>
+    <string name="endGameToast_text">Tijd is op! Je score was %1$d</string>
+    <string name="aboutOption_text">Over ons</string>
+    <string name="aboutDialogTitle_text">Over ons!</string>
+    <string name="aboutDialogMessage_text">Hier is wat informatie over ons.</string>
+</resources>
