@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
     private var score = 0
 
     private lateinit var countDownTimer: CountDownTimer
-    private val initialCountDownInMillis = 5000L
+    private val initialCountDownInMillis = 60000L
     private val countDownIntervalInMillis = 1000L
     private var timeLeft = initialCountDownInMillis
 
